@@ -1,0 +1,13 @@
+donor,condition,x1,y1,x2,y2
+donor 1,gal9 KD,0,536,1388,394
+donor 1,- CCL21,0,348,1388,590
+donor 1,WT,0,488,1388,468
+donor 2,gal9 KD,0,400,1388,484
+donor 2,- CCL21,0,388,1388,408
+donor 2,WT,0,380,1388,526
+donor 3,gal9 KD,0,398,1388,360
+donor 3,- CCL21,0,448,1388,226
+donor 3,WT,0,330,1388,474
+donor 4,gal9 KD,0,252,1388,220
+donor 4,- CCL21,0,190,1388,182
+donor 4,WT,0,236,1388,228
