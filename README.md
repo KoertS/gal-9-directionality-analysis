@@ -1,6 +1,6 @@
 # Chemotaxis analysis Gal-9 Knockdown
 ![](figures/polar_hists.png)
-This repository contains the code and data used to perform the chemotaxis analysis in the manuscript [Galectin-9 regulates dendritic cell polarity and uropod contraction by modulating RhoA activity](
+This repository contains the code and data used to perform the chemotaxis analysis in the paper [Galectin-9 regulates dendritic cell polarity and uropod contraction by modulating RhoA activity](
 https://doi.org/10.1083/jcb.202404079).
 
 # Data
